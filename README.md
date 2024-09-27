@@ -1,6 +1,6 @@
 # Odin-recipes
 
-<img src="../_resources/odin.png" alt="odin.png" width="56" height="56" style="font-size: 15px;"> 
+<img src="./_resources/odin.png" alt="odin.png" width="56" height="56" style="font-size: 15px;"> 
 
 # Welcome to Odin-recipes!
 
